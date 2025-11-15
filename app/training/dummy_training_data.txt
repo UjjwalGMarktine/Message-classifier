@@ -1,0 +1,1417 @@
+__label__safe Hello! How are you doing today?
+__label__safe Tum kaise ho aaj?
+__label__safe Have a nice day!
+__label__safe Shukriya, aapka din shubh ho
+__label__safe Thanks for your help
+__label__safe Main aapki madad ke liye yahan hoon
+__label__safe Good morning!
+__label__safe Subah ki namaste!
+__label__safe I hope you are having a great day
+__label__safe Aasha hai aapka din accha ja raha ho
+__label__safe Congratulations on your achievement!
+__label__safe Aapki safalta ke liye badhai ho!
+__label__safe Happy birthday!
+__label__safe Janmadin ki shubhkamnayein!
+__label__safe Thank you very much
+__label__safe Bohot dhanyavaad
+__label__safe Have a wonderful weekend
+__label__safe Shubh saptahant!
+__label__safe Enjoy your meal
+__label__safe Apna bhojan anand se lijiye
+__label__safe Wishing you good luck
+__label__safe Aapko shubhkamnayein
+__label__safe Keep smiling
+__label__safe Muskurate rahiye
+__label__safe I appreciate your support
+__label__safe Main aapke samarthan ki sarahna karta hoon
+__label__safe Best wishes for your exam
+__label__safe Aapke pariksha ke liye shubhkamnayein
+__label__safe Take care
+__label__safe Apna khayal rakhiye
+__label__safe See you tomorrow
+__label__safe Kal milte hain
+__label__safe Have a safe journey
+__label__safe Surakshit yatra karein
+__label__safe Wishing you a happy day
+__label__safe Aapka din khushiyon se bhara ho
+__label__safe I hope everything goes well
+__label__safe Aasha hai sab kuch accha ho
+__label__safe Enjoy your holiday
+__label__safe Apni chhutti ka anand lijiye
+__label__safe Thank you for your time
+__label__safe Apna samay dene ke liye dhanyavaad
+__label__safe Good night
+__label__safe Shubh raatri
+__label__safe Have a productive day
+__label__safe Uttpadak din bitaiye
+__label__safe Keep up the good work
+__label__safe Achha kaam jaari rakhiye
+__label__safe I am happy for you
+__label__safe Main aapke liye khush hoon
+__label__safe Sending you positive vibes
+__label__safe Aapko sakaratmak urja bhej raha hoon
+__label__safe I hope you are healthy
+__label__safe Aasha hai aap swasth hain
+__label__safe Wishing you happiness
+__label__safe Aapko khushi ki shubhkamnayein
+__label__safe Enjoy your evening
+__label__safe Shaam ka anand lijiye
+__label__safe Have fun with your friends
+__label__safe Apne doston ke saath anand lijiye
+__label__safe Thanks for your message
+__label__safe Apke sandesh ke liye dhanyavaad
+__label__safe Take it easy
+__label__safe Aasaan rahiye
+__label__safe Have a peaceful day
+__label__safe Shaantipurn din bitaiye
+__label__safe I am glad to hear that
+__label__safe Ye sunkar khushi hui
+__label__safe Congratulations to you
+__label__safe Aapko badhai ho
+__label__safe Enjoy your weekend
+__label__safe Apni chhutti ka maza lijiye
+__label__safe Have a great lunch
+__label__safe Apna bhojan anand se karein
+__label__safe Best of luck for your project
+__label__safe Aapke project ke liye shubhkamnayein
+__label__safe Happy holidays!
+__label__safe Chhuttiyon ki shubhkamnayein!
+__label__safe I appreciate your effort
+__label__safe Main aapki mehnat ki sarahna karta hoon
+__label__safe Wishing you a healthy life
+__label__safe Aapko swasth jeevan ki shubhkamnayein
+__label__safe Good afternoon
+__label__safe Shubh dopahar
+__label__safe Stay positive
+__label__safe Sakaratmak rahiye
+__label__safe Have a wonderful evening
+__label__safe Shaam ka anand lijiye
+__label__safe I hope you are doing well
+__label__safe Aasha hai aap accha kar rahe hain
+__label__safe Take care of yourself
+__label__safe Apna dhyan rakhiye
+__label__safe See you soon
+__label__safe Jaldi milte hain
+__label__safe Wishing you a great day
+__label__safe Aapka din shubh ho
+__label__safe Have a fantastic journey
+__label__safe Shandar yatra ka anand lijiye
+__label__safe Thank you for your help
+__label__safe Apki madad ke liye dhanyavaad
+__label__safe Keep learning
+__label__safe Seekhte rahiye
+__label__safe Best wishes for your career
+__label__safe Aapke career ke liye shubhkamnayein
+__label__safe I am proud of you
+__label__safe Main aap par garv karta hoon
+__label__safe Have a safe trip
+__label__safe Surakshit yatra karein
+__label__safe Enjoy your breakfast
+__label__safe Apna nashta anand se karein
+__label__safe Good luck with your work
+__label__safe Apke kaam ke liye shubhkamnayein
+__label__safe I hope everything is fine
+__label__safe Aasha hai sab kuch theek hai
+__label__safe Wishing you a peaceful night
+__label__safe Shaant raatri ki shubhkamnayein
+__label__safe Thank you for your support
+__label__safe Apke samarthan ke liye dhanyavaad
+__label__safe Have a happy day
+__label__safe Khush din bitaiye
+__label__safe Enjoy your coffee
+__label__safe Apna coffee ka maza lijiye
+__label__safe Good evening
+__label__safe Shubh sandhya
+__label__safe Keep practicing
+__label__safe Abhyas jaari rakhiye
+__label__safe I am happy to help
+__label__safe Main madad karke khush hoon
+__label__safe Wishing you success
+__label__safe Aapko safalta ki shubhkamnayein
+__label__safe Have a great day
+__label__safe Aapka din shubh ho
+__label__safe Thank you for your time
+__label__safe Apna samay dene ke liye dhanyavaad
+__label__safe Stay safe
+__label__safe Surakshit rahiye
+__label__safe Enjoy your lunch
+__label__safe Apna bhojan anand se karein
+__label__safe I hope you have a good day
+__label__safe Aasha hai aapka din accha ho
+__label__safe Best wishes for your exam
+__label__safe Aapke pariksha ke liye shubhkamnayein
+__label__safe Keep calm and relax
+__label__safe Shaant rahiye aur aaram karein
+__label__safe Thank you for your kind words
+__label__safe Aapke shubh shabdon ke liye dhanyavaad
+__label__safe Have a wonderful morning
+__label__safe Subah ka anand lijiye
+__label__safe Enjoy your tea
+__label__safe Apna chai ka maza lijiye
+__label__safe Wishing you all the best
+__label__safe Aapko sabse acchi shubhkamnayein
+__label__safe Good job today
+__label__safe Aaj ka accha kaam
+__label__safe I appreciate your kindness
+__label__safe Main aapki dayalu bhavna ki sarahna karta hoon
+__label__safe Stay healthy
+__label__safe Swasth rahiye
+__label__safe Enjoy your time
+__label__safe Apna samay anand se bitaiye
+__label__safe Have a fantastic day
+__label__safe Shandar din bitaiye
+__label__safe Thank you for your cooperation
+__label__safe Apke sahyog ke liye dhanyavaad
+__label__safe Wishing you a lovely evening
+__label__safe Shaam ka anand lijiye
+__label__safe I am grateful to you
+__label__safe Main aapka aabhari hoon
+__label__safe Have a happy weekend
+__label__safe Khush saptahant bitaiye
+__label__safe Enjoy your dinner
+__label__safe Apna bhojan anand se karein
+__label__safe Best wishes for your future
+__label__safe Aapke bhavishya ke liye shubhkamnayein
+__label__safe Keep up your spirit
+__label__safe Apni utsaah banaye rakhiye
+__label__safe I am pleased with your work
+__label__safe Main aapke kaam se khush hoon
+__label__safe Wishing you joy
+__label__safe Aapko anand ki shubhkamnayein
+__label__safe Have a successful day
+__label__safe Safal din bitaiye
+__label__safe Thank you for your trust
+__label__safe Aapke vishwas ke liye dhanyavaad
+__label__safe Stay cheerful
+__label__safe Khush rahiye
+__label__safe Enjoy your walk
+__label__safe Apna walk anand se karein
+__label__safe Good luck with your plans
+__label__safe Aapke yojnaon ke liye shubhkamnayein
+__label__safe I appreciate your effort
+__label__safe Main aapke prayas ki sarahna karta hoon
+__label__safe Have a pleasant day
+__label__safe Suhane din bitaiye
+__label__safe Enjoy your weekend trip
+__label__safe Apni chhutti ki yatra ka anand lijiye
+__label__safe Thank you for your patience
+__label__safe Apke dhairya ke liye dhanyavaad
+__label__safe Keep moving forward
+__label__safe Aage badhte rahiye
+__label__safe I hope you are enjoying your day
+__label__safe Aasha hai aapka din accha ja raha ho
+__label__safe Wishing you a joyful life
+__label__safe Aapko khushi bhara jeevan mile
+__label__safe Have a good evening
+__label__safe Shubh sandhya ka anand lijiye
+__label__safe Enjoy your time with family
+__label__safe Apne parivar ke saath samay anand se bitaiye
+__label__safe Thank you for being nice
+__label__safe Aapke dayalu hone ke liye dhanyavaad
+__label__safe Stay motivated
+__label__safe Prerit rahiye
+__label__safe Good night and sleep well
+__label__safe Shubh raatri aur acchi neend lein
+__label__safe Enjoy your morning coffee
+__label__safe Subah ki chai ka anand lijiye
+__label__safe Have a pleasant evening
+__label__safe Suhane shaam ka anand lijiye
+__label__safe Wishing you peace
+__label__safe Aapko shanti mile
+__label__safe Keep your spirits high
+__label__safe Apna hausla banaye rakhiye
+__label__safe I am happy to work with you
+__label__safe Main aapke saath kaam karke khush hoon
+__label__safe Have a calm day
+__label__safe Shaant din bitaiye
+__label__safe Enjoy your trip
+__label__safe Apni yatra ka anand lijiye
+__label__safe Thank you for your honesty
+__label__safe Apke imaandari ke liye dhanyavaad
+__label__safe Stay strong
+__label__safe Majboot rahiye
+__label__safe Have a bright future
+__label__safe Ujjwal bhavishya ho
+__label__safe I appreciate your advice
+__label__safe Main aapki salah ki sarahna karta hoon
+__label__safe Good luck today
+__label__safe Aaj ke liye shubhkamnayein
+__label__safe Enjoy your evening walk
+__label__safe Shaam ke walk ka anand lijiye
+__label__safe Thank you for your cooperation
+__label__safe Apke sahyog ke liye dhanyavaad
+__label__safe Wishing you a joyful day
+__label__safe Khushi bhara din bitaiye
+__label__safe Have a great breakfast
+__label__safe Apna nashta acchi tarah karein
+__label__safe Good afternoon, friends
+__label__safe Shubh dopahar, doston
+__label__safe Keep your positivity
+__label__safe Apni sakaratmakta banaye rakhiye
+__label__safe I am thankful for your support
+__label__safe Main aapke samarthan ke liye aabhari hoon
+__label__safe Enjoy your weekend morning
+__label__safe Apni chhutti ki subah ka anand lijiye
+__label__safe Thank you for listening
+__label__safe Sunne ke liye dhanyavaad
+__label__safe Have a pleasant lunch
+__label__safe Suhane bhojan ka anand lijiye
+__label__safe Wishing you all the best for your work
+__label__safe Apke kaam ke liye shubhkamnayein
+__label__safe Keep your mind calm
+__label__safe Apna man shaant rakhiye
+__label__safe I am glad to see your progress
+__label__safe Aapki pragati dekh kar khushi hui
+__label__safe Have a successful weekend
+__label__safe Safal saptahant bitaiye
+__label__safe Enjoy your tea break
+__label__safe Apna chai break anand se bitaiye
+__label__safe Thank you for your prompt response
+__label__safe Turant pratikriya ke liye dhanyavaad
+__label__safe Wishing you happiness and health
+__label__safe Aapko khushi aur swasthya mile
+__label__safe Have a wonderful lunch
+__label__safe Apna bhojan shandar tareeke se karein
+__label__safe Good morning, everyone
+__label__safe Subah ki namaste sabko
+__label__safe Keep learning new things
+__label__safe Naye cheeze seekhte rahiye
+__label__safe I appreciate your kindness and help
+__label__safe Main aapki dayalu bhavna aur madad ki sarahna karta hoon
+__label__safe Enjoy your day with friends
+__label__safe Apne doston ke saath din ka anand lijiye
+__label__safe Wishing you a calm evening
+__label__safe Shaant shaam ki shubhkamnayein
+__label__safe Have a safe weekend
+__label__safe Surakshit saptahant bitaiye
+__label__safe Thank you for being supportive
+__label__safe Samarthak hone ke liye dhanyavaad
+__label__safe Keep your focus
+__label__safe Apna dhyan banaye rakhiye
+__label__safe I hope your day is productive
+__label__safe Aasha hai aapka din utpadak ho
+__label__safe Wishing you all the best for exams
+__label__safe Aapke pariksha ke liye shubhkamnayein
+__label__safe Enjoy your morning walk
+__label__safe Subah ke walk ka anand lijiye
+__label__safe Thank you for your guidance
+__label__safe Apke margdarshan ke liye dhanyavaad
+__label__safe Have a pleasant night
+__label__safe Suhane raat ka anand lijiye
+__label__safe Good luck with your studies
+__label__safe Apke adhyyan ke liye shubhkamnayein
+__label__safe Keep your energy high
+__label__safe Apni urja banaye rakhiye
+__label__safe I am happy for your success
+__label__safe Main aapki safalta se khush hoon
+__label__safe Have a joyful morning
+__label__safe Khushi bhari subah bitaiye
+__label__safe Thank you for sharing
+__label__safe Saanjha karne ke liye dhanyavaad
+__label__safe Wishing you a healthy week
+__label__safe Aapko swasth saptah ki shubhkamnayein
+__label__safe Enjoy your weekend evening
+__label__safe Apni chhutti ki shaam ka anand lijiye
+__label__safe Good luck with your journey
+__label__safe Apke safar ke liye shubhkamnayein
+__label__safe I appreciate your honesty and support
+__label__safe Main aapki imaandari aur samarthan ki sarahna karta hoon
+__label__safe Have a peaceful afternoon
+__label__safe Shaant dopahar bitaiye
+__label__safe Enjoy your breakfast with family
+__label__safe Apne parivar ke saath nashta ka anand lijiye
+__label__safe Thank you for your understanding
+__label__safe Aapke samajhne ke liye dhanyavaad
+__label__safe Wishing you a wonderful week
+__label__safe Aapka saptah shandar ho
+__label__safe Have a productive weekend
+__label__safe Utpadak saptahant bitaiye
+__label__safe Enjoy your meal with friends
+__label__safe Apna bhojan doston ke saath anand se karein
+__label__safe Thank you for
+__label__hate_speech I hate these people
+__label__hate_speech Tumhare jaise log bilkul bekar hain
+__label__hate_speech These outsiders should not exist
+__label__hate_speech Main un logon ko pasand nahi karta
+__label__hate_speech Group A is dangerous
+__label__hate_speech Tumhare jaise log samaj ke liye khatra hain
+__label__hate_speech I despise those foreigners
+__label__hate_speech Yeh log bilkul kharab hain
+__label__hate_speech We don’t want these people here
+__label__hate_speech Tum log samaj ke liye threat ho
+__label__hate_speech I cannot tolerate them
+__label__hate_speech Yeh log bekar aur nakam hain
+__label__hate_speech They are a disgrace
+__label__hate_speech Tumhare jaise log society ke liye harmful hain
+__label__hate_speech These people are useless
+__label__hate_speech Main in logon ko support nahi karta
+__label__hate_speech Group A should be removed
+__label__hate_speech Tumhare jaise log kabhi nahi sudhrenge
+__label__hate_speech I hate outsiders coming here
+__label__hate_speech Yeh log society ke liye khatra hain
+__label__hate_speech They are worthless
+__label__hate_speech Tum log bekar aur nakam ho
+__label__hate_speech I despise them completely
+__label__hate_speech Yeh log bilkul dangerous hain
+__label__hate_speech We cannot allow these people here
+__label__hate_speech Tumhare jaise log samaj ke liye harmful hain
+__label__hate_speech They are unacceptable
+__label__hate_speech Main in logon ko bilkul pasand nahi karta
+__label__hate_speech Group A should leave
+__label__hate_speech Tumhare jaise log kabhi sudhrenge nahi
+__label__hate_speech I hate foreigners interfering
+__label__hate_speech Yeh log society ke liye threat hain
+__label__hate_speech They are harmful
+__label__hate_speech Tum log bilkul dangerous ho
+__label__hate_speech I cannot tolerate these people
+__label__hate_speech Yeh log useless hain
+__label__hate_speech They are a disgrace to us
+__label__hate_speech Tumhare jaise log samaj ke liye bekar hain
+__label__hate_speech I despise them
+__label__hate_speech Yeh log khatarnaak hain
+__label__hate_speech Group A must leave
+__label__hate_speech Tum log society ke liye threat ho
+__label__hate_speech They are unacceptable here
+__label__hate_speech Main in logon ko tolerate nahi karta
+__label__hate_speech Yeh log bekar aur dangerous hain
+__label__hate_speech They are worthless humans
+__label__hate_speech Tumhare jaise log harmful hain
+__label__hate_speech I hate these outsiders completely
+__label__hate_speech Yeh log society ke liye khatra hain
+__label__hate_speech They should leave immediately
+__label__hate_speech Tum log bekar aur nakam ho
+__label__hate_speech I despise Group A
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are completely harmful
+__label__hate_speech Tumhare jaise log samaj ke liye dangerous hain
+__label__hate_speech I cannot tolerate them at all
+__label__hate_speech Yeh log useless aur threat hain
+__label__hate_speech Group A is a disgrace
+__label__hate_speech Tum log harmful aur bekar ho
+__label__hate_speech They are dangerous for society
+__label__hate_speech Main in logon ko pasand nahi karta
+__label__hate_speech Yeh log bilkul unacceptable hain
+__label__hate_speech They should be removed
+__label__hate_speech Tumhare jaise log samaj ke liye khatra hain
+__label__hate_speech I despise these people
+__label__hate_speech Yeh log harmful hain
+__label__hate_speech Group A must go
+__label__hate_speech Tum log society ke liye dangerous ho
+__label__hate_speech They are disgraceful
+__label__hate_speech Main in logon ko tolerate nahi karta
+__label__hate_speech Yeh log useless hain
+__label__hate_speech They are completely unacceptable
+__label__hate_speech Tumhare jaise log harmful hain
+__label__hate_speech I hate these outsiders
+__label__hate_speech Yeh log society ke liye threat hain
+__label__hate_speech Group A should be removed now
+__label__hate_speech Tum log bekar aur dangerous ho
+__label__hate_speech They are harmful humans
+__label__hate_speech Main in logon ko bilkul pasand nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are disgraceful people
+__label__hate_speech Tumhare jaise log society ke liye khatra hain
+__label__hate_speech I despise them completely
+__label__hate_speech Yeh log dangerous hain
+__label__hate_speech Group A should leave immediately
+__label__hate_speech Tum log harmful aur bekar ho
+__label__hate_speech They are worthless
+__label__hate_speech Main in logon ko tolerate nahi karta
+__label__hate_speech Yeh log completely unacceptable hain
+__label__hate_speech They are disgraceful humans
+__label__hate_speech Tumhare jaise log dangerous hain
+__label__hate_speech I hate them completely
+__label__hate_speech Yeh log society ke liye khatra hain
+__label__hate_speech Group A must leave now
+__label__hate_speech Tum log harmful aur nakam ho
+__label__hate_speech They are worthless people
+__label__hate_speech Main in logon ko pasand nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are dangerous
+__label__hate_speech Tumhare jaise log society ke liye threat hain
+__label__hate_speech I despise them
+__label__hate_speech Yeh log harmful hain
+__label__hate_speech Group A should leave immediately
+__label__hate_speech Tum log bekar aur harmful ho
+__label__hate_speech They are disgraceful
+__label__hate_speech Main in logon ko tolerate nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are completely harmful
+__label__hate_speech Tumhare jaise log dangerous hain
+__label__hate_speech I hate them completely
+__label__hate_speech Yeh log society ke liye khatra hain
+__label__hate_speech Group A must go now
+__label__hate_speech Tum log harmful aur useless ho
+__label__hate_speech They are worthless humans
+__label__hate_speech Main in logon ko bilkul pasand nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are disgraceful people
+__label__hate_speech Tumhare jaise log dangerous hain
+__label__hate_speech I despise these outsiders
+__label__hate_speech Yeh log harmful hain
+__label__hate_speech Group A should leave immediately
+__label__hate_speech Tum log bekar aur nakam ho
+__label__hate_speech They are disgraceful
+__label__hate_speech Main in logon ko tolerate nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are completely dangerous
+__label__hate_speech Tumhare jaise log society ke liye threat hain
+__label__hate_speech I hate them completely
+__label__hate_speech Yeh log society ke liye khatra hain
+__label__hate_speech Group A must leave now
+__label__hate_speech Tum log harmful aur useless ho
+__label__hate_speech They are worthless people
+__label__hate_speech Main in logon ko bilkul pasand nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are disgraceful humans
+__label__hate_speech Tumhare jaise log dangerous hain
+__label__hate_speech I despise these outsiders
+__label__hate_speech Yeh log harmful hain
+__label__hate_speech Group A should leave immediately
+__label__hate_speech Tum log bekar aur harmful ho
+__label__hate_speech They are disgraceful
+__label__hate_speech Main in logon ko tolerate nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are completely harmful
+__label__hate_speech Tumhare jaise log dangerous hain
+__label__hate_speech I hate them completely
+__label__hate_speech Yeh log society ke liye khatra hain
+__label__hate_speech Group A must leave now
+__label__hate_speech Tum log harmful aur useless ho
+__label__hate_speech They are worthless humans
+__label__hate_speech Main in logon ko bilkul pasand nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are disgraceful people
+__label__hate_speech Tumhare jaise log dangerous hain
+__label__hate_speech I despise them completely
+__label__hate_speech Yeh log harmful hain
+__label__hate_speech Group A should leave immediately
+__label__hate_speech Tum log bekar aur nakam ho
+__label__hate_speech They are disgraceful
+__label__hate_speech Main in logon ko tolerate nahi karta
+__label__hate_speech Yeh log unacceptable hain
+__label__hate_speech They are completely harmful
+__label__hate_speech Tumhare jaise log dangerous hain
+__label__hate_speech I hate them completely
+__label__hate_speech Yeh log society ke liye khatra hain
+__label__hate_speech Group A must go now
+__label__harassment Stop texting me, I am busy
+__label__harassment Tum mujhe disturb karna band karo
+__label__harassment Don’t message me again
+__label__harassment I told you to leave me alone
+__label__harassment Tumhare jaise log irritate karte hain
+__label__harassment Hey sexy, send me a pic
+__label__harassment I don’t want your calls anymore
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Stop spamming my inbox
+__label__harassment Don’t tag me in your posts
+__label__harassment Tum mujhe har roz message kyun karte ho?
+__label__harassment You are bothering me constantly
+__label__harassment I asked you to stop, but you continue
+__label__harassment Tum mujhe har waqt disturb kar rahe ho
+__label__harassment Stop sending flirty messages
+__label__harassment Hey sexy, leave me alone
+__label__harassment Don’t send sexual messages
+__label__harassment Tumhare jaise log creepy hote hain
+__label__harassment I am not interested in talking to you
+__label__harassment Tum mujhe annoy kar rahe ho
+__label__harassment Stop calling me at night
+__label__harassment Tumhara behavior uncomfortable hai
+__label__harassment Don’t keep following me
+__label__harassment I don’t want to meet you
+__label__harassment Tum mujhe stalk kar rahe ho
+__label__harassment Stop sending unwanted messages
+__label__harassment Hey babe, stop messaging me
+__label__harassment Tum mujhe baar-baar disturb kar rahe ho
+__label__harassment I have asked you politely to stop
+__label__harassment Tum mujhe har waqt follow kar rahe ho
+__label__harassment Don’t tag me in comments
+__label__harassment Stop sending sexual content
+__label__harassment Tum mujhe har jagah disturb karte ho
+__label__harassment I am uncomfortable with your messages
+__label__harassment Tumhare flirty messages annoying hain
+__label__harassment Leave me alone
+__label__harassment Tum mujhe har waqt message kar rahe ho
+__label__harassment Stop sending pictures
+__label__harassment Tumhare sexual messages inappropriate hain
+__label__harassment Don’t comment on my posts anymore
+__label__harassment Tum mujhe har jagah follow kar rahe ho
+__label__harassment Stop texting at midnight
+__label__harassment Tum mujhe stalk kar rahe ho online
+__label__harassment I don’t want to interact with you
+__label__harassment Tum mujhe har roz disturb karte ho
+__label__harassment Stop sending unwanted DMs
+__label__harassment Hey sexy, stop sending texts
+__label__harassment Tumhare messages uncomfortable hain
+__label__harassment Don’t follow me everywhere
+__label__harassment Tum mujhe baar-baar tag kar rahe ho
+__label__harassment I have asked you not to message
+__label__harassment Tum mujhe ignore karna seekho
+__label__harassment Stop sending flirty texts
+__label__harassment Tumhare sexual texts inappropriate hain
+__label__harassment I don’t want your attention
+__label__harassment Tum mujhe disturb kar rahe ho unnecessarily
+__label__harassment Leave me alone, please
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Stop messaging me every day
+__label__harassment Tumhare jaise log har waqt annoy karte hain
+__label__harassment I told you I am busy
+__label__harassment Tum mujhe baar-baar call kar rahe ho
+__label__harassment Stop sending creepy messages
+__label__harassment Tum mujhe har jagah stalk kar rahe ho
+__label__harassment Don’t send sexual content anymore
+__label__harassment Tumhare flirty texts uncomfortable hain
+__label__harassment I am not interested in talking
+__label__harassment Tum mujhe disturb kar rahe ho
+__label__harassment Stop sending unwanted pics
+__label__harassment Tum mujhe tag karna band karo
+__label__harassment Hey sexy, don’t message me again
+__label__harassment Tumhare messages irritating hain
+__label__harassment Stop following me everywhere
+__label__harassment Tum mujhe har waqt annoy kar rahe ho
+__label__harassment I have asked you to leave me alone
+__label__harassment Tum mujhe har roz disturb karte ho
+__label__harassment Stop sending messages at night
+__label__harassment Tum mujhe stalk kar rahe ho
+__label__harassment Don’t send sexual photos
+__label__harassment Tumhare jaise log creepy hote hain
+__label__harassment Leave me alone, I said
+__label__harassment Tum mujhe har jagah disturb kar rahe ho
+__label__harassment Stop sending DMs
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Don’t comment on my posts anymore
+__label__harassment Tumhare messages uncomfortable hain
+__label__harassment I don’t want to chat with you
+__label__harassment Tum mujhe annoy kar rahe ho
+__label__harassment Stop sending sexual content
+__label__harassment Tumhare flirty messages inappropriate hain
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe baar-baar message kar rahe ho
+__label__harassment Don’t send unwanted pics
+__label__harassment Tum mujhe stalk kar rahe ho online
+__label__harassment Stop following me everywhere
+__label__harassment Tum mujhe har waqt disturb karte ho
+__label__harassment I don’t want your attention
+__label__harassment Tumhare messages annoying hain
+__label__harassment Leave me alone, please
+__label__harassment Tum mujhe har jagah follow kar rahe ho
+__label__harassment Don’t send flirty texts
+__label__harassment Tum mujhe har roz disturb kar rahe ho
+__label__harassment Stop messaging me constantly
+__label__harassment Tumhare jaise log creepy hote hain
+__label__harassment I told you to stop
+__label__harassment Tum mujhe ignore karna seekho
+__label__harassment Don’t call me at night again
+__label__harassment Tum mujhe stalk kar rahe ho
+__label__harassment Stop sending sexual messages
+__label__harassment Tumhare flirty messages uncomfortable hain
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Don’t tag me in posts anymore
+__label__harassment Tum mujhe har waqt disturb kar rahe ho
+__label__harassment Stop sending unwanted messages
+__label__harassment Tumhare sexual texts inappropriate hain
+__label__harassment I don’t want to interact with you
+__label__harassment Tum mujhe har jagah stalk kar rahe ho
+__label__harassment Stop messaging me at midnight
+__label__harassment Tumhare messages annoying hain
+__label__harassment Leave me alone, I said already
+__label__harassment Tum mujhe disturb kar rahe ho unnecessarily
+__label__harassment Don’t send sexual photos
+__label__harassment Tumhare flirty messages inappropriate hain
+__label__harassment Stop sending unwanted DMs
+__label__harassment Tum mujhe stalk kar rahe ho online
+__label__harassment Leave me alone, please
+__label__harassment Tum mujhe har roz annoy kar rahe ho
+__label__harassment Don’t message me again
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Stop sending flirty texts
+__label__harassment Tumhare sexual messages inappropriate hain
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe har jagah disturb kar rahe ho
+__label__harassment Don’t send unwanted messages
+__label__harassment Tum mujhe stalk kar rahe ho online
+__label__harassment Stop sending sexual content
+__label__harassment Tumhare flirty messages uncomfortable hain
+__label__harassment I don’t want your attention
+__label__harassment Tum mujhe har waqt disturb karte ho
+__label__harassment Leave me alone, please
+__label__harassment Tum mujhe har jagah follow kar rahe ho
+__label__harassment Don’t call me at night again
+__label__harassment Tumhare messages irritating hain
+__label__harassment Stop sending unwanted pics
+__label__harassment Tum mujhe stalk kar rahe ho
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe har roz annoy kar rahe ho
+__label__harassment Don’t message me constantly
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Stop sending sexual photos
+__label__harassment Tumhare flirty messages uncomfortable hain
+__label__harassment Leave me alone, please
+__label__harassment Tum mujhe disturb kar rahe ho unnecessarily
+__label__harassment Stop sending unwanted DMs
+__label__harassment Tum mujhe har jagah stalk kar rahe ho
+__label__harassment Don’t send sexual content
+__label__harassment Tumhare messages irritating hain
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe har waqt annoy kar rahe ho
+__label__harassment Don’t message me again
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Stop sending flirty texts
+__label__harassment Tumhare sexual messages inappropriate hain
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe har jagah disturb kar rahe ho
+__label__harassment Don’t send unwanted messages
+__label__harassment Tum mujhe stalk kar rahe ho online
+__label__harassment Stop sending sexual content
+__label__harassment Tumhare flirty messages uncomfortable hain
+__label__harassment I don’t want your attention
+__label__harassment Tum mujhe har waqt disturb karte ho
+__label__harassment Leave me alone, please
+__label__harassment Tum mujhe har jagah follow kar rahe ho
+__label__harassment Don’t call me at night again
+__label__harassment Tumhare messages irritating hain
+__label__harassment Stop sending unwanted pics
+__label__harassment Tum mujhe stalk kar rahe ho
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe har roz annoy kar rahe ho
+__label__harassment Don’t message me constantly
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Stop sending sexual photos
+__label__harassment Tumhare flirty messages uncomfortable hain
+__label__harassment Leave me alone, please
+__label__harassment Tum mujhe disturb kar rahe ho unnecessarily
+__label__harassment Stop sending unwanted DMs
+__label__harassment Tum mujhe har jagah stalk kar rahe ho
+__label__harassment Don’t send sexual content
+__label__harassment Tumhare messages irritating hain
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe har waqt annoy kar rahe ho
+__label__harassment Don’t message me again
+__label__harassment Tum mujhe follow karna band karo
+__label__harassment Stop sending flirty texts
+__label__harassment Tumhare sexual messages inappropriate hain
+__label__harassment Leave me alone now
+__label__harassment Tum mujhe har jagah disturb kar rahe ho
+__label__harassment Don’t send unwanted messages
+__label__harassment Tum mujhe stalk kar rahe ho online
+__label__harassment Stop sending sexual content
+__label__harassment Tumhare flirty messages uncomfortable hain
+__label__abusive You are such a idiot
+__label__abusive Shut up, nobody cares about you
+__label__abusive You are a complete moron
+__label__abusive Tum bilkul bekar ho
+__label__abusive Stop being a stupid fool
+__label__abusive Tere jaisa loser kabhi nahi dekhha
+__label__abusive You are useless in every way
+__label__abusive Aise dumb banda kabhi nahi mila
+__label__abusive You are pathetic and weak
+__label__abusive Tumhare jaise pagal log bahut hote hain
+__label__abusive Don’t talk nonsense, idiot
+__label__abusive Teri soch bilkul bekar hai
+__label__abusive You act like a clown
+__label__abusive Yeh comment tumhare liye embarrassing hai
+__label__abusive Shut your mouth, fool
+__label__abusive Tumhara dimaag bilkul khali hai
+__label__abusive You talk like a complete idiot
+__label__abusive Stop being a dumbass
+__label__abusive Tumhara attitude bilkul bekar hai
+__label__abusive Your words make no sense
+__label__abusive You are brainless
+__label__abusive Tumhare jaise bewakoof ko ignore karna padta hai
+__label__abusive You are ridiculous
+__label__abusive What a stupid thing to say
+__label__abusive Tumhara behavior sabse weak hai
+__label__abusive You are worthless
+__label__abusive Tere jaise log sirf trouble create karte hain
+__label__abusive You are a joke
+__label__abusive Yeh baat bilkul galat hai, idiot
+__label__abusive You are so dumb
+__label__abusive Tum bilkul useless ho
+__label__abusive You are annoying as hell
+__label__abusive Tumhara gussa bekaar hai
+__label__abusive You are an embarrassment
+__label__abusive Tumhare jaise log bekar hote hain
+__label__abusive You have zero brain
+__label__abusive Tumhari soch ekdum dumb hai
+__label__abusive You are hopeless
+__label__abusive Tumhare jaise log sab gadbad karte hain
+__label__abusive You talk nonsense
+__label__abusive Tum bilkul pagal ho
+__label__abusive You are the worst
+__label__abusive Tumhara behavior embarrassing hai
+__label__abusive You are trash
+__label__abusive Tumhare jaise loser har jagah hote hain
+__label__abusive Your logic is idiotic
+__label__abusive Tumhara dimaag kaam nahi karta
+__label__abusive You are a loser
+__label__abusive Tum bilkul useless ho
+__label__abusive Stop acting like a fool
+__label__abusive Tumhare jaise log annoying hote hain
+__label__abusive You are weak and pathetic
+__label__abusive Tumhari soch bilkul galat hai
+__label__abusive You have no brain
+__label__abusive Tumhare jaise log useless hote hain
+__label__abusive You act like a dumb clown
+__label__abusive Tum bilkul idiot ho
+__label__abusive You are a complete fool
+__label__abusive Tumhare words bilkul nonsense hain
+__label__abusive You are ridiculous and dumb
+__label__abusive Tumhara attitude idiotic hai
+__label__abusive You are pathetic
+__label__abusive Tumhare jaise fool ko ignore karna padta hai
+__label__abusive You have no common sense
+__label__abusive Tum bilkul stupid ho
+__label__abusive You are a failure
+__label__abusive Tumhare jaise log sirf trouble karte hain
+__label__abusive You are insane
+__label__abusive Tum bilkul bewakoof ho
+__label__abusive You are brain-dead
+__label__abusive Tumhare jaise log annoying hote hain
+__label__abusive You are a total idiot
+__label__abusive Tum bilkul weak ho
+__label__abusive You make zero sense
+__label__abusive Tumhare jaise loser ko ignore karna padta hai
+__label__abusive You are absurd
+__label__abusive Tumhara dimaag kaam nahi karta
+__label__abusive You are dumb as hell
+__label__abusive Tum bilkul weak ho
+__label__abusive You talk rubbish
+__label__abusive Tumhare jaise fool har jagah hote hain
+__label__abusive You are trashy
+__label__abusive Tumhare words bilkul idiot hain
+__label__abusive You are stupid
+__label__abusive Tum bilkul useless ho
+__label__abusive You are pathetic and dumb
+__label__abusive Tumhare jaise fool annoying hote hain
+__label__abusive You are ridiculous
+__label__abusive Tum bilkul loser ho
+__label__abusive You are brainless and weak
+__label__abusive Tumhare words nonsense hain
+__label__abusive You are hopeless
+__label__abusive Tumhare jaise log useless hote hain
+__label__abusive You act like an idiot
+__label__abusive Tum bilkul dumb ho
+__label__abusive You are a joke
+__label__abusive Tumhare jaise log ridiculous hote hain
+__label__abusive You are insane and pathetic
+__label__abusive Tum bilkul foolish ho
+__label__abusive You are worthless
+__label__abusive Tumhare jaise loser kaam ka nahi hain
+__label__abusive You are a total fool
+__label__abusive Tum bilkul dumb aur bekar ho
+__label__abusive You are absurd and brainless
+__label__abusive Tumhare jaise log idiot hote hain
+__label__abusive You are useless
+__label__abusive Tum bilkul weak aur pathetic ho
+__label__abusive You are a complete moron
+__label__abusive Tumhare jaise fool ridiculous hote hain
+__label__abusive You are pathetic and hopeless
+__label__abusive Tum bilkul loser aur dumb ho
+__label__abusive You are an idiot
+__label__abusive Tumhare words bilkul foolish hain
+__label__abusive You are ridiculous and weak
+__label__abusive Tum bilkul useless aur pathetic ho
+__label__abusive You talk like a fool
+__label__abusive Tumhare jaise idiot sab gadbad karte hain
+__label__abusive You are pathetic
+__label__abusive Tum bilkul moron ho
+__label__abusive You are brainless
+__label__abusive Tumhare jaise loser weak hote hain
+__label__abusive You are a fool
+__label__abusive Tum bilkul idiot aur dumb ho
+__label__abusive You are insane
+__label__abusive Tumhare jaise fool kaam ka nahi hain
+__label__abusive You are stupid and pathetic
+__label__abusive Tum bilkul useless aur loser ho
+__label__abusive You act like an idiot
+__label__abusive Tumhare words bilkul nonsense hain
+__label__abusive You are worthless
+__label__abusive Tum bilkul dumb aur foolish ho
+__label__abusive You are a joke
+__label__abusive Tumhare jaise fool ridiculous hote hain
+__label__abusive You are brain-dead
+__label__abusive Tum bilkul moron aur weak ho
+__label__abusive You are absurd
+__label__abusive Tumhare jaise loser kaam ka nahi hain
+__label__abusive You are pathetic and dumb
+__label__abusive Tum bilkul useless aur stupid ho
+__label__abusive You are a total idiot
+__label__abusive Tumhare words bilkul foolish hain
+__label__abusive You are ridiculous
+__label__abusive Tum bilkul weak aur dumb ho
+__label__abusive You talk nonsense
+__label__abusive Tumhare jaise fool annoying hote hain
+__label__abusive You are hopeless
+__label__abusive Tum bilkul brainless aur useless ho
+__label__abusive You are insane
+__label__abusive Tumhare jaise idiot sab gadbad karte hain
+__label__abusive You are a complete moron
+__label__abusive Tum bilkul dumb aur pathetic ho
+__label__abusive You are trash
+__label__abusive Tumhare jaise loser useless hote hain
+__label__abusive You are brain-dead
+__label__abusive Tum bilkul weak aur idiot ho
+__label__abusive You act like a fool
+__label__abusive Tumhare jaise moron ridiculous hote hain
+__label__abusive You are a total fool
+__label__abusive Tum bilkul useless aur stupid ho
+__label__abusive You are pathetic
+__label__abusive Tumhare words bilkul nonsense hain
+__label__abusive You are ridiculous
+__label__abusive Tum bilkul dumb aur loser ho
+__label__abusive You talk like an idiot
+__label__abusive Tumhare jaise fool weak hote hain
+__label__abusive You are brainless and pathetic
+__label__abusive Tum bilkul useless aur pathetic ho
+__label__abusive You are insane
+__label__abusive Tumhare jaise idiot sab gadbad karte hain
+__label__abusive You are a complete fool
+__label__abusive Tum bilkul dumb aur weak ho
+__label__abusive You are worthless
+__label__abusive Tumhare jaise loser kaam ka nahi hain
+__label__abusive You are a joke
+__label__abusive Tum bilkul useless aur pathetic ho
+__label__abusive You are ridiculous
+__label__abusive Tumhare jaise idiot annoying hote hain
+__label__abusive You are brain-dead
+__label__abusive Tum bilkul dumb aur fool ho
+__label__abusive You are pathetic
+__label__abusive Tumhare jaise loser ridiculous hote hain
+__label__abusive You are insane and brainless
+__label__abusive Tum bilkul weak aur useless ho
+__label__abusive You are a total idiot
+__label__abusive Tumhare words bilkul nonsense hain
+__label__abusive You act like a fool
+__label__abusive Tum bilkul dumb aur loser ho
+__label__abusive You are ridiculous
+__label__abusive Tumhare jaise fool pathetic hote hain
+__label__abusive You are brainless
+__label__abusive Tum bilkul useless aur stupid ho
+__label__abusive You are insane
+__label__abusive Tumhare jaise idiot weak hote hain
+__label__abusive You are a complete moron
+__label__abusive Tum bilkul dumb aur ridiculous ho
+__label__abusive You are pathetic and brainless
+__label__abusive Tumhare jaise loser kaam ka nahi hain
+__label__abusive you are an idiot
+__label__harassment stop messaging me
+__label__hate_speech these people are trash
+__label__safe good morning everyone
+
+__label__abusive fuck you
+__label__abusive bhenchod
+__label__abusive madharchod
+__label__abusive lawda
+__label__abusive lawde
+__label__abusive motherfucker
+__label__abusive lund
+__label__abusive fucker
+__label__abusive bhosdike
+__label__abusive bsdk
+__label__harassment sexy
+__label__harassment sex
+__label__harassment hot
+
+__label__safe hello
+__label__safe namaste
+__label__safe salam
+__label__safe peace
+__label__safe sukoon
+__label__safe respect
+__label__safe thankyou
+__label__safe welcome
+__label__safe smile
+__label__safe harmony
+__label__safe blessing
+__label__safe khushi
+__label__safe shanti
+__label__safe mitra
+__label__safe friend
+__label__safe dost
+__label__safe pyar
+__label__safe love
+__label__safe gratitude
+__label__safe harmony
+__label__safe support
+__label__safe kindness
+__label__safe care
+__label__safe helpful
+__label__safe sweet
+__label__safe honest
+__label__safe loyal
+__label__safe smart
+__label__safe wise
+__label__safe generous
+__label__safe brave
+__label__safe gentle
+__label__safe positive
+__label__safe humble
+__label__safe pure
+__label__safe clean
+__label__safe proud
+__label__safe strong
+__label__safe sweetheart
+__label__safe sunshine
+__label__safe blossom
+__label__safe beautiful
+__label__safe cute
+__label__safe nice
+__label__safe lovely
+__label__safe honest
+__label__safe safe
+__label__safe trust
+__label__safe calm
+__label__safe focused
+__label__safe stable
+__label__safe blessed
+__label__safe comfort
+__label__safe harmony
+__label__safe gentle
+__label__safe supportive
+__label__safe inspire
+__label__safe motivated
+__label__safe caring
+__label__safe healing
+__label__safe wellness
+__label__safe energetic
+__label__safe goodvibes
+__label__safe hope
+__label__safe prayer
+__label__safe brightness
+__label__safe positivevibes
+__label__safe honest
+__label__safe loyal
+__label__safe grateful
+__label__safe cheerful
+__label__safe awesome
+__label__safe lovely
+__label__safe refreshing
+__label__safe joyful
+__label__safe happiness
+__label__safe bonding
+__label__safe together
+__label__safe unity
+__label__safe safar
+__label__safe journey
+__label__safe mehmaan
+__label__safe welcomehome
+__label__safe roshan
+__label__safe udaan
+__label__safe ummeed
+__label__safe aastha
+__label__safe sakoon
+__label__safe barkat
+__label__safe ibadat
+__label__safe dua
+__label__safe aman
+__label__safe farz
+__label__safe sath
+__label__safe saathi
+__label__safe muskurahat
+__label__safe barkha
+__label__safe tamanna
+__label__safe umeed
+__label__safe adab
+__label__safe khair
+__label__safe barkat
+__label__safe rehmat
+__label__safe sneh
+__label__safe prem
+__label__safe sukh
+__label__safe samvedna
+__label__safe utsah
+__label__safe parivar
+__label__safe sanskar
+__label__safe amanat
+__label__safe imaan
+__label__safe barakah
+__label__safe hayaat
+__label__safe meher
+__label__safe rehnuma
+__label__safe sardard
+__label__safe aasman
+__label__safe roshni
+__label__safe khushboo
+__label__safe gulab
+__label__safe phool
+__label__safe chirag
+__label__safe deepak
+__label__safe diya
+__label__safe mehfil
+__label__safe muskaan
+__label__safe sahara
+__label__safe paigam
+__label__safe narm
+__label__safe komal
+__label__safe shuddh
+__label__safe shital
+__label__safe vishwas
+__label__safe vishram
+__label__safe seva
+__label__safe manzil
+__label__safe saaf
+__label__safe imaandar
+__label__safe shareef
+__label__safe gentleheart
+__label__safe clarity
+__label__safe sparkle
+__label__safe bloom
+__label__safe rise
+__label__safe shine
+__label__safe bright
+__label__safe hopefull
+__label__safe soft
+__label__safe loving
+__label__safe blessing
+__label__safe nourished
+__label__safe mindful
+__label__safe guided
+__label__safe relaxed
+__label__safe calmness
+__label__safe pleasure
+__label__safe sweetmind
+__label__safe honestheart
+__label__safe loyalmind
+__label__safe bravery
+__label__safe courage
+__label__safe peaceful
+__label__safe sweetdream
+__label__safe soulmate
+__label__safe buddy
+__label__safe partner
+__label__safe bhaichara
+__label__safe insaniyat
+__label__safe humanity
+__label__safe adar
+__label__safe samman
+__label__safe izzat
+__label__safe khushi
+__label__safe shukriya
+__label__safe appreciation
+__label__safe dignity
+__label__safe justice
+__label__safe equality
+__label__safe unity
+__label__safe brotherhood
+__label__safe sisterhood
+__label__safe compassion
+__label__safe empathy
+__label__safe warmth
+__label__safe positivity
+__label__safe good
+__label__safe perfect
+__label__safe wholesome
+__label__safe delightful
+__label__safe decent
+__label__safe uplifting
+__label__safe supportive
+__label__safe encouraging
+__label__safe helpfulness
+__label__safe coexist
+__label__safe peacefullife
+__label__safe purity
+__label__safe stability
+__label__safe prosperity
+__label__safe sunshine
+__label__safe celebration
+__label__safe festival
+__label__safe haya
+__label__safe khairiyat
+__label__safe barkatein
+__label__safe rehmatain
+__label__safe noor
+__label__safe ibadat
+__label__safe duaen
+__label__safe sakooni
+__label__safe meherbani
+__label__safe shareefana
+__label__safe imaandari
+__label__safe tameez
+__label__safe tehzeeb
+__label__safe zindagi
+__label__safe muskurahat
+__label__safe barkha
+__label__safe gulzar
+__label__safe umang
+__label__safe utsav
+__label__safe neeyat
+__label__safe meetha
+__label__safe accha
+__label__safe dilse
+__label__safe pyara
+__label__safe sachha
+__label__safe sundar
+__label__safe komal
+__label__safe halka
+__label__safe maasoom
+__label__safe shareefana
+__label__safe calmvoice
+__label__safe shantiwave
+__label__safe softmind
+__label__safe clearheart
+__label__safe bloomlight
+__label__safe blessmind
+__label__safe faith
+__label__safe heal
+__label__safe comfortwave
+__label__safe balancer
+__label__safe nurturer
+__label__safe giver
+__label__safe thinker
+__label__safe visionary
+__label__safe achiever
+__label__safe mentor
+__label__safe helper
+__label__safe guider
+__label__safe shining
+__label__safe glowing
+__label__safe rising
+__label__safe united
+__label__safe gratefulheart
+__label__safe kindmind
+__label__safe loved
+__label__safe valued
+__label__safe respected
+__label__safe connected
+__label__safe supported
+__label__safe inspired
+__label__safe elevated
+__label__safe blessedlife
+__label__safe harmonywave
+__label__safe hopewave
+__label__safe trustwave
+__label__safe peacefulmind
+__label__safe quiet
+__label__safe serenity
+__label__safe pureheart
+__label__safe faithfull
+__label__safe shiningmind
+__label__safe goodheart
+__label__safe brightmind
+__label__safe caringmind
+__label__safe joyfulheart
+__label__safe safelight
+
+__label__abusive madarchod
+__label__abusive chutmarika
+__label__abusive gashti
+__label__abusive randichod
+__label__abusive harami
+__label__abusive jhaatu
+__label__abusive chutiyaap
+__label__abusive kutti
+__label__abusive kuttey
+__label__abusive randi
+__label__abusive behanchod
+__label__abusive chutiyapa
+__label__abusive chutke
+__label__abusive laude
+__label__abusive napunsak
+__label__abusive nalayak
+__label__abusive vaasna
+__label__abusive fattu
+__label__abusive bewakoof
+__label__abusive pagal
+__label__abusive dheet
+__label__abusive kamina
+__label__abusive kamini
+__label__abusive ullu
+__label__abusive ullu_ka_pattha
+__label__abusive gandu
+__label__abusive gandi
+__label__abusive tapori
+
+__label__harassment nangi
+__label__harassment nudeness
+__label__harassment flirty
+__label__harassment seduce
+__label__harassment seducing
+__label__harassment teasing
+__label__harassment touchy
+__label__harassment tempting
+__label__harassment vulgarity
+__label__harassment behlawa
+__label__harassment chhedkhani
+__label__harassment item
+__label__harassment patana
+__label__harassment patola
+__label__harassment patake
+__label__harassment mastani
+__label__harassment hawas
+__label__harassment dirtytalk
+__label__harassment mjra
+__label__harassment vasna
+__label__harassment kama
+__label__harassment desire
+__label__harassment lusty
+__label__harassment fondle
+__label__harassment touching
+__label__harassment creep
+
+__label__hate_speech chinki
+__label__hate_speech bhangi
+__label__hate_speech chamar
+__label__hate_speech katua
+__label__hate_speech mulla
+__label__hate_speech jihadi
+__label__hate_speech deshdrohi
+__label__hate_speech traitor
+__label__hate_speech antiindia
+__label__hate_speech anti_hindu
+__label__hate_speech anti_muslim
+__label__hate_speech anti_sikh
+__label__hate_speech gaddar
+__label__hate_speech racist
+__label__hate_speech bigot
+__label__hate_speech untouchable
+__label__hate_speech jahil
+__label__hate_speech illiterate
+__label__hate_speech convert
+__label__hate_speech extremist
+__label__hate_speech terrorist
+__label__hate_speech fanatic
+__label__hate_speech bheed
+__label__hate_speech bhakt
+__label__hate_speech libtard
+__label__hate_speech sickular
+__label__hate_speech porky
+
+__label__safe hello
+__label__safe thanks
+__label__safe welcome
+__label__safe friend
+__label__safe brother
+__label__safe sister
+__label__safe joy
+__label__safe happy
+__label__safe peace
+__label__safe calm
+__label__safe smart
+__label__safe genius
+__label__safe brave
+__label__safe lovely
+__label__safe sweet
+__label__safe honest
+__label__safe kind
+__label__safe humble
+__label__safe polite
+__label__safe respect
+__label__safe helper
+__label__safe hero
+__label__safe pure
+__label__safe shine
+__label__safe trust
+__label__safe great
+__label__safe awesome
+
+__label__abusive chutmar
+__label__abusive gaandfat
+__label__abusive lafaanga
+__label__abusive chutbazz
+__label__abusive ghashti
+__label__abusive raand
+__label__abusive jaahil
+__label__abusive suaar
+__label__abusive suwar
+__label__abusive dogla
+__label__abusive cheapda
+__label__abusive besharam
+__label__abusive bevda
+__label__abusive andhbhakt
+__label__abusive footpathi
+__label__abusive bhikhari
+__label__abusive tapori
+__label__abusive chutkibaba
+__label__abusive ghatiya
+__label__abusive bekaar
+__label__abusive tharki
+__label__abusive lafangey
+__label__abusive ullu_kuttta
+__label__abusive clown
+__label__abusive asshole
+__label__abusive prick
+__label__abusive scumbag
+__label__abusive dickhead
+
+__label__harassment seductive
+__label__harassment temptress
+__label__harassment charming
+__label__harassment hotness
+__label__harassment sensual
+__label__harassment sexiness
+__label__harassment boldness
+__label__harassment vasnayi
+__label__harassment charmful
+__label__harassment desirable
+__label__harassment fantasy
+__label__harassment vibing
+__label__harassment wetness
+__label__harassment intimate
+__label__harassment teasingly
+__label__harassment lustful
+__label__harassment steamy
+__label__harassment erotic
+__label__harassment naughty
+__label__harassment hawasi
+__label__harassment junooni
+__label__harassment junoon
+__label__harassment vasnasheel
+__label__harassment hottie
+__label__harassment dolled
+__label__harassment clingy
+
+__label__safe blessed
+__label__safe cheerful
+__label__safe harmony
+__label__safe sunshine
+__label__safe positive
+__label__safe creative
+__label__safe skillful
+__label__safe bright
+__label__safe kindly
+__label__safe peaceful
+__label__safe friendly
+__label__safe caring
+__label__safe grateful
+__label__safe hopeful
+__label__safe honest
+__label__safe calmness
+__label__safe lively
+__label__safe supportive
+__label__safe motivator
+__label__safe calmhearted
+__label__safe gentle
+__label__safe delightful
+__label__safe inspiring
+__label__safe pureheart
+__label__safe spark
+__label__safe amazing
+
+__label__hate_speech mleccha
+__label__hate_speech deshdrohi
+__label__hate_speech gaumutra
+__label__hate_speech leftard
+__label__hate_speech naslwadi
+__label__hate_speech jaativad
+__label__hate_speech casteist
+__label__hate_speech tribalist
+__label__hate_speech supremacist
+__label__hate_speech anti_sanatani
+__label__hate_speech anti_hinduvaadi
+__label__hate_speech khalistani
+__label__hate_speech sanghi
+__label__hate_speech jihadiwadi
+__label__hate_speech talib
+__label__hate_speech firangi
+__label__hate_speech barbaric
+__label__hate_speech pest
+__label__hate_speech vermin
+__label__hate_speech subhuman
+__label__hate_speech inferior
+__label__hate_speech impure
+__label__hate_speech ethnicist
+__label__hate_speech bigotry
+__label__hate_speech nazi
+__label__hate_speech fascist
+__label__hate_speech separatist

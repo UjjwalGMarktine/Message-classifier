@@ -1,0 +1,111 @@
+{
+  "info": {
+    "name": "Comment Classification App",
+    "_postman_id": "f1234567-89ab-4def-1234-56789abcdef3",
+    "description": "Complete Postman collection: health check, token generation, classify comment, update dataset",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "X-API-Key",
+            "value": "1234"
+          }
+        ],
+        "url": {
+          "raw": "{{base_url}}/",
+          "host": ["{{base_url}}"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Generate Access Token",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "X-API-Key",
+            "value": "1234"
+          }
+        ],
+        "url": {
+          "raw": "{{base_url}}/generate-access-token",
+          "host": ["{{base_url}}"],
+          "path": ["generate-access-token"]
+        }
+      },
+      "response": [],
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "var jsonData = pm.response.json();",
+              "pm.environment.set(\"token\", jsonData.access_token);"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Classify Comment",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"text\": \"Hi my name is ujjwal\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/classify-comments/",
+          "host": ["{{base_url}}"],
+          "path": ["classify-comments", ""]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Update Dataset",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Bearer {{token}}"
+          }
+        ],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "data_set_file",
+              "type": "file",
+              "src": "/home/marktine/Downloads/main_tranning_data.txt"
+            }
+          ]
+        },
+        "url": {
+          "raw": "{{base_url}}/update-models/",
+          "host": ["{{base_url}}"],
+          "path": ["update-dataset", ""]
+        }
+      },
+      "response": []
+    }
+  ]
+}
